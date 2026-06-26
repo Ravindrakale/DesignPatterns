@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Creational/">
+    <Project Path="AbstractFactory/AbstractFactory.csproj" Id="6c0ae6f1-5420-4801-9c32-7cbce837db72" />
+    <Project Path="FactoryMethod/FactoryMethod.csproj" Id="ba1d57a0-d829-47ae-80d3-171a59c58ab3" />
+    <Project Path="Singletone/Singletone.csproj" Id="566a7e1c-e10d-4590-ba95-b38bce670f53" />
+  </Folder>
+</Solution>
